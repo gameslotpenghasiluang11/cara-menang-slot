@@ -1,0 +1,18 @@
+{
+  "name": "cara-menang-slot",
+  "main": "./lib/cara-menang-slot",
+  "version": "1.0.0",
+  "description": "Link Lengkap Info Bocoran Cara Menang Slot Penghasil Saldo Dana",
+  "keywords": ["agen slot terbaik","games slot gampang menang","slot microgaming","games slot gampang menang","agentoto slot","microgaming","slot online","slot online jackpot tertinggi","toto slot","slot habanero","agentotoplay slot"],
+
+  "activationCommands": {
+    "atom-workspace": "cara-menang-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotpenghasiluang11/cara-menang-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

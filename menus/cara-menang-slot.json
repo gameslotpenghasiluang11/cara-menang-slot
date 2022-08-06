@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle cara-menang-slot",
+        "command": "cara-menang-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "cara-menang-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "cara-menang-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
