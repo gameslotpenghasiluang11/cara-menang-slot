@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Trik Menang Info Bocoran Cara Menang Slot Banyak Bonus](https://atom.io/packages/cara-menang-slot)
-## :point_right: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/register/) :snowflake: <<< 
-## :fire: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :green_heart: <<< 
-## :8ball: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/promo/) :dart: <<< 
+## :point_right: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/register/) :snowflake: <<< 
+## :fire: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :green_heart: <<< 
+## :8ball: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/promo/) :dart: <<< 
 
 ## Informasi Situs /Server Kami : 
 
